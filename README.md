@@ -25,6 +25,7 @@
     - __HTTP: 每周一个知识点__
     - __React: hooks__
     - __性能__
+    - __正则表达式__
 3. 工作中遇到的一切内容的原理
     - webpack原理、编译出的文件格式，及规则
     - react原理
@@ -32,12 +33,27 @@
 3. 推动事情的能力
 4. 高效工具的运用 & 工作中遇到的其他内容
     - git常用命令及运行原理梳理
-    - vscode好用的插件总结
+    - vscode好用的插件总结 && 快捷键总结
     - debug工具及丰富的用法
     - 单元测试
     - __chrome__
     - 英语: 提高搜索命中率
-    - mac快捷键
+    - mac快捷键 || 工具
+        - Alfred
+    - Shell命令
+    - Xmind
+    - UML画图工具 
+    - Markdown语法
+    - Host绑定: SwitchHosts
+    - HTTP调试
+    - Charles
+    - Postman
+    - 转换类的在线验证工具
+        - 编码转换: [站长工具](https://tool.chinaz.com/tools/unicode.aspx)
+        - [时间戳转换](https://tool.chinaz.com/tools/unixtime.aspx)
+        - [加密 解密](https://tool.chinaz.com/tools/urlencode.aspx)
+    - 检查类的在线工具
+        - [JSON.cn](https://www.diffchecker.com/)
 5. 设计模式, 方法: 看书《设计模式》《JavaScript设计模式》
     - 一个月至少一个设计模式
 6. 算法
