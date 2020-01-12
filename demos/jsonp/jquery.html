@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="jquery-3.4.1.min.js">
+    </script>
+</head>
+<body>
+    <!-- <script>
+        $.ajax({
+            url: 'http://localhost:3000/getData.jsonp',
+            type: 'GET',
+            dataType: 'JSONP',
+            success: function(res){
+                debugger
+                console.log(res)
+            }
+        })
+    </script> -->
+    <script>
+        function jsonpCallback(){
+            debugger
+            console.log('res')
+        }
+    </script>
+    <script src="http://localhost:3000/getData.jsonp?callback=jsonpCallback"></script>
+    
+</body>
+</html>
